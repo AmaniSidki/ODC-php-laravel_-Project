@@ -1,4 +1,2 @@
-# ODC-php-laravel_-Project
-This project was built after a grant from (Orange Digital Center)
-Pack and diploma from Orange in cooperation with(Instant)
-105 hours of learning, using php language, Laravel framework.
+# instant_odc_php_project
+PHP _native_ project with _authentication_ and authorization with instant orange ODC *Luxor-Aswan* Group.
